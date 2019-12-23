@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<open>
+   <creds priv="write" type="internal">
+      <user>Username1</user>
+      <client_token>abcplaudzrbcy37c</client_token>
+      <client_secret>0cxDE3LE0000=</client_secret>
+   </creds>
+   <creds priv="read" type="internal">
+      <user>Username1</user>
+      <client_token>123plaudzrbcy37c</client_token>
+      <client_secret>0cxDE3LE1234=</client_secret>
+   </creds>
+   <creds priv="none" type="internal">
+      <user>Username1</user>
+      <client_token>000plaudzrbcy37c</client_token>
+      <client_secret>0cxDE3LEabcd=</client_secret>
+   </creds>
+</open>
